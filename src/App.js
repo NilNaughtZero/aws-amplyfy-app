@@ -24,4 +24,6 @@ function App({ signOut, user}) {
   );
 }
 
+//テスト
+
 export default withAuthenticator (App);
